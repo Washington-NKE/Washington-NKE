@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Washington-NKE
-- 👀 I’m interested in coding, networking, AI, software tools, tutorial and knowhows
-- 🌱 I’m currently learning Computer Science
+- 🌱 currently learning Computer Science
 - 💞️  tools and ideas
 - 📫 whatsapp no: +254713440774
 
