@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Washington-NKE
-- 🌱 currently learning Computer Science
-- 💞️  tools and ideas
+- 🌱 Software Engineer
+- 💞️ From Dedan Kimathi University of Technology, Kenya.
 - 📫 whatsapp no: +254713440774
 
 <!---
