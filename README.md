@@ -1,9 +1,43 @@
-- 👋 Hi, I’m @Washington-NKE
-- 🌱 Software Engineer
-- 💞️ From Dedan Kimathi University of Technology, Kenya.
-- 📫 whatsapp no: +254713440774
+# Hi there, I'm Washington-NKE! 👋
 
-<!---
-Washington-NKE/Washington-NKE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Computer Science Student**  
+💻 **JavaScript & Web Development Enthusiast**
+
+---
+
+## 🚀 About Me
+
+I'm a passionate computer science student focused on building scalable web projects and pushing the boundaries of creativity and design. My mission is to create innovative solutions that not only work efficiently but also delight users through thoughtful design.
+
+---
+
+## 🛠️ Top Skills
+
+- **JavaScript**
+- **Web Development**
+- Frontend & Backend Project Design
+- UI/UX Creativity
+
+---
+
+## 🌟 Featured Project
+
+### Mockwise
+
+My proudest project so far! Mockwise is an AI mock interview platform.
+
+---
+
+## 🎨 Fun Fact
+
+When I'm not coding, I love **beadmaking**—it's my creative outlet and a way to bring colorful ideas to life!
+
+---
+
+> “I build to scale. I create to inspire.”
+
+---
+
+<!--
+**Washington-NKE/Washington-NKE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile!
+-->
