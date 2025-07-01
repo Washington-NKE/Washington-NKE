@@ -1,4 +1,4 @@
-# Hi there, I'm Washington-NKE! 👋
+# Hi there, I'm Washington Mwangi! 👋
 
 🎓 **Computer Science Student**  
 💻 **JavaScript & Software Engineering Enthusiast**
