@@ -1,13 +1,13 @@
 # Hi there, I'm Washington-NKE! 👋
 
 🎓 **Computer Science Student**  
-💻 **JavaScript & Web Development Enthusiast**
+💻 **JavaScript & Software Engineering Enthusiast**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate computer science student focused on building scalable web projects and pushing the boundaries of creativity and design. My mission is to create innovative solutions that not only work efficiently but also delight users through thoughtful design.
+I'm a passionate computer science student focused on building scalable software projects and pushing the boundaries of creativity and design. My mission is to create innovative solutions that not only work efficiently but also delight users through thoughtful design.
 
 ---
 
@@ -15,6 +15,7 @@ I'm a passionate computer science student focused on building scalable web proje
 
 - **JavaScript**
 - **Web Development**
+- **Next.Js**
 - Frontend & Backend Project Design
 - UI/UX Creativity
 
